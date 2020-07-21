@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana;
+    background-color: #f6dbaf;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color:#002856;
+    color: whitesmoke;
+}
+
+.card{
+    text-align: center;
+}
