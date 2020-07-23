@@ -5,10 +5,11 @@ body{
 
 .jumbotron{
     text-align: center;
-    background-color:#002856;
+    background-color:#b8500c;
     color: whitesmoke;
 }
 
 .card{
     text-align: center;
+    column-count: 3;
 }
