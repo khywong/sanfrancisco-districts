@@ -1,15 +1,63 @@
 body{
     font-family: Verdana;
     background-color: #f6dbaf;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .jumbotron{
     text-align: center;
     background-color:#b8500c;
     color: whitesmoke;
+    margin-bottom: 0px;
 }
 
 .card{
+    background-color: #02075D;
+    color: whitesmoke;
     text-align: center;
     column-count: 3;
+    box-shadow: 5px 5px 20px grey;
+    width: 20rem;
+    margin: 5px;
+    border: none;
+    border-radius: 2px;
+}
+
+.card img{
+    height: 20rem;
+}
+
+.list-view{
+    width:100%;
+
+}
+
+.row{
+    justify-content: center;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: lightblue;
+}
+
+.detail-view{
+    display: flex;
+    justify-content: center;
+    
+}
+
+p{
+    color: lightgrey;
+}
+
+h3{
+    text-transform: uppercase;
 }
