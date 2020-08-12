@@ -4,11 +4,15 @@ body{
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    background: -webkit-linear-gradient(to bottom, #b8500c, #f6dbaf);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #b8500c, #f6dbaf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
+
 
 .jumbotron{
     text-align: center;
-    background-color:#b8500c;
+    background-color:#b8510c00;
     color: whitesmoke;
     margin-bottom: 0px;
 }
