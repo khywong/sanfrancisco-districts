@@ -30,7 +30,7 @@ var getAllRecords = function() {
     <div class=".col-6">
     <div class="card">
       ${image ? `<img src="${image[0].url}">` : ``}
-     <div class="card-body">
+     <div class="card-body" id="card-body">
       <p class="card-text"><a href="index.html?id=${id}">${district}</p></a>
       </div>
     </div> 
