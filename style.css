@@ -65,3 +65,7 @@ p{
 h3{
     text-transform: uppercase;
 }
+
+.card-body:hover{
+    transform: scale(1.2);
+}

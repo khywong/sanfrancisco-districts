@@ -69,7 +69,7 @@ var detailView = function(district, image, highlight1, highlight2, highlight3, d
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h3 class="card-title">${district}</h3>
+      <h3 class="card-title">${district}</h3>
         <p class="card-text">${description}</p>
         <br>
         <h5>Highlights</h5>
